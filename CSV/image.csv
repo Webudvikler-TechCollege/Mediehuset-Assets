@@ -1,73 +1,73 @@
-"id","filename","author","description"
-1,"/mediesuset-map.jpg","Colourbox",NULL
-2,"/content/audience-foto-per-lange.jpg","Per Lange",NULL
-3,"/content/camel-foto-colourbox.jpg","Colourbox",NULL
-4,"/content/stage1-foto-colourbox.jpg","Colourbox",NULL
-5,"/content/crowd3-foto-colourbox.jpg","Colourbox",NULL
-6,"/content/camp-de-luxe-foto-colourbox.jpg","Colourbox",NULL
-7,"/content/art2-foto-colourbox.jpg","Colourbox",NULL
-8,"/content/crowd5-foto-colourbox.jpg","Colourbox",NULL
-9,"/content/crowd6-foto-colourbox.jpg","Colourbox",NULL
-10,"/content/audience2-foto-per-lange.jpg","Per Lange",NULL
-11,"/content/art1-foto-colourbox.jpg","Colourbox",NULL
-12,"/content/crowd7-foto-colourbox.jpg","Colourbox",NULL
-13,"/content/audience3-foto-per-lange.jpg","Per Lange",NULL
-14,"/content/camp1-foto-colourbox.jpg","Colourbox",NULL
-15,"/content/camp2-foto-colourbox.jpg","Colourbox",NULL
-16,"/content/camp-colorit-foto-colourbox.jpg","Colourbox",NULL
-17,"/content/crowd4-foto-colourbox.jpg","Colourbox",NULL
-18,"/content/wedding-foto-colourbox.jpg","Colourbox",NULL
-19,"/content/crowd2-foto-colourbox.jpg","Colourbox",NULL
-20,"/content/camp-kultunaut-foto-colourbox.jpg","Colourbox",NULL
-21,"/content/mean-face-foto-brknrib.jpg","BRKNRIB",NULL
-22,"/content/crowd1-foto-colourbox.jpg","Colourbox",NULL
-23,"/artist/musik-sort-sol3-foto-per-lange.jpg","Per Lange",NULL
-24,"/artist/dj-tech-foto-brknrib.jpg","BRKNRIB",NULL
-25,"/artist/dj-jean-michel-jarre-foto-per-lange.jpg","Per Lange",NULL
-26,"/artist/musik-loc-foto-per-lange.jpg","Per Lange",NULL
-27,"/artist/musik-hej-matematik-foto-per-lange.jpg","Per Lange",NULL
-28,"/artist/all-star-jam-night2-foto-per-lange.jpg","Per Lange",NULL
-29,"/artist/dj-morten-breum-foto-per-lange.jpg","Per Lange",NULL
-30,"/artist/dj-sass-foto-per-lange.jpg","Per Lange",NULL
-31,"/artist/all-star-jam-night3-foto-brknrib.jpg","BRKNRIB",NULL
-32,"/artist/musik-blur-foto-per-lange.jpg","Per Lange",NULL
-33,"/artist/musik-allan-olsen-foto-per-lange.jpg","Per Lange",NULL
-34,"/artist/dj-backend-foto-per-lange.jpg","Per Lange",NULL
-35,"/artist/musik-dad-foto-per-lange.jpg","Per Lange",NULL
-36,"/artist/musik-thomas-helmig-foto-per-lange.jpg","Per Lange",NULL
-37,"/artist/musik-electric-guitars-foto-per-lange.jpg","Per Lange",NULL
-38,"/artist/musik-bon-jovi-foto-per-lange.jpg","Per Lange",NULL
-39,"/artist/musik-dtroit-foto-per-lange.jpg","Per Lange",NULL
-40,"/artist/musik-aqua-foto-per-lange.jpg","Per Lange",NULL
-41,"/artist/musik-peter-sommer-foto-per-lange.jpg","Per Lange",NULL
-42,"/artist/musik-sort-sol-foto-per-lange.jpg","Per Lange",NULL
-43,"/artist/musik-cv-jorgensen-foto-per-lange.jpg","Per Lange",NULL
-44,"/artist/musik-fm-belfast-foto-per-lange.jpg","Per Lange",NULL
-45,"/artist/all-star-jam-night1-foto-brknrib.jpg","BRKNRIB",NULL
-46,"/artist/musik-bon-jovi2-foto-per-lange.jpg","Per Lange",NULL
-47,"/artist/musik-down-foto-per-lange.jpg","Per Lange",NULL
-48,"/artist/musik-tim-christensen-foto-per-lange.jpg","Per Lange",NULL
-49,"/artist/dj-sandman-foto-brknrib.jpg","BRKNRIB",NULL
-50,"/artist/musik-nik-og-jay-foto-per-lange.jpg","Per Lange",NULL
-51,"/artist/chill-n-lounge-foto-brknrib.jpg","BRKNRIB",NULL
-52,"/artist/musik-mads-langer-foto-per-lange.jpg","Per Lange",NULL
-53,"/artist/musik-infernal-foto-per-lange.jpg","Per Lange",NULL
-54,"/artist/dj-kato-foto-per-lange.jpg","Per Lange",NULL
-55,"/artist/musik-dune-foto-per-lange.jpg","Per Lange",NULL
-56,"/artist/musik-sort-sol2-foto-per-lange.jpg","Per Lange",NULL
-57,"/artist/musik-the-blue-van-foto-per-lange.jpg","Per Lange",NULL
-58,"/artist/movie-bohemian-rhapsody.jpg","MoviePosters",NULL
-59,"/artist/movie-the-wall.jpg","MoviePosters",NULL
-60,"/artist/movie-through-the-never.jpg","MoviePosters",NULL
-61,"/artist/movie-inside-llewyn-lewis.jpg","MoviePosters",NULL
-62,"/artist/movie-gimme-danger.jpeg","MoviePosters",NULL
-63,"/artist/movie-samsara.jpg","MoviePosters",NULL
-64,"/no-photo.svg","Computer",NULL
-65,"/content/art3-foto-colourbox.jpg","Colourbox",NULL
-66,"/content/art4-foto-colourbox.jpg","Colourbox",NULL
-67,"/content/art5-foto-colourbox.jpg","Colourbox",NULL
-68,"/content/art6-foto-colourbox.jpg","Colourbox",NULL
-69,"/content/art7-foto-colourbox.jpg","Colourbox",NULL
-70,"/content/art8-foto-colourbox.jpg","Colourbox",NULL
-71,"/content/art9-foto-colourbox.jpg","Colourbox",NULL
-72,"/content/body-art-lady-sush-foto-colourbox.jpg","Colourbox",NULL
+"id","filename","author"
+1,"mediesuset-map.jpg","Colourbox"
+2,"audience-foto-per-lange.jpg","Per Lange"
+3,"camel-foto-colourbox.jpg","Colourbox"
+4,"stage1-foto-colourbox.jpg","Colourbox"
+5,"crowd3-foto-colourbox.jpg","Colourbox"
+6,"camp-de-luxe-foto-colourbox.jpg","Colourbox"
+7,"art2-foto-colourbox.jpg","Colourbox"
+8,"crowd5-foto-colourbox.jpg","Colourbox"
+9,"crowd6-foto-colourbox.jpg","Colourbox"
+10,"audience2-foto-per-lange.jpg","Per Lange"
+11,"art1-foto-colourbox.jpg","Colourbox"
+12,"crowd7-foto-colourbox.jpg","Colourbox"
+13,"audience3-foto-per-lange.jpg","Per Lange"
+14,"camp1-foto-colourbox.jpg","Colourbox"
+15,"camp2-foto-colourbox.jpg","Colourbox"
+16,"camp-colorit-foto-colourbox.jpg","Colourbox"
+17,"crowd4-foto-colourbox.jpg","Colourbox"
+18,"wedding-foto-colourbox.jpg","Colourbox"
+19,"crowd2-foto-colourbox.jpg","Colourbox"
+20,"camp-kultunaut-foto-colourbox.jpg","Colourbox"
+21,"mean-face-foto-brknrib.jpg","BRKNRIB"
+22,"crowd1-foto-colourbox.jpg","Colourbox"
+23,"musik-sort-sol3-foto-per-lange.jpg","Per Lange"
+24,"dj-tech-foto-brknrib.jpg","BRKNRIB"
+25,"dj-jean-michel-jarre-foto-per-lange.jpg","Per Lange"
+26,"musik-loc-foto-per-lange.jpg","Per Lange"
+27,"musik-hej-matematik-foto-per-lange.jpg","Per Lange"
+28,"all-star-jam-night2-foto-per-lange.jpg","Per Lange"
+29,"dj-morten-breum-foto-per-lange.jpg","Per Lange"
+30,"dj-sass-foto-per-lange.jpg","Per Lange"
+31,"all-star-jam-night3-foto-brknrib.jpg","BRKNRIB"
+32,"musik-blur-foto-per-lange.jpg","Per Lange"
+33,"musik-allan-olsen-foto-per-lange.jpg","Per Lange"
+34,"dj-backend-foto-per-lange.jpg","Per Lange"
+35,"musik-dad-foto-per-lange.jpg","Per Lange"
+36,"musik-thomas-helmig-foto-per-lange.jpg","Per Lange"
+37,"musik-electric-guitars-foto-per-lange.jpg","Per Lange"
+38,"musik-bon-jovi-foto-per-lange.jpg","Per Lange"
+39,"musik-dtroit-foto-per-lange.jpg","Per Lange"
+40,"musik-aqua-foto-per-lange.jpg","Per Lange"
+41,"musik-peter-sommer-foto-per-lange.jpg","Per Lange"
+42,"musik-sort-sol-foto-per-lange.jpg","Per Lange"
+43,"musik-cv-jorgensen-foto-per-lange.jpg","Per Lange"
+44,"musik-fm-belfast-foto-per-lange.jpg","Per Lange"
+45,"all-star-jam-night1-foto-brknrib.jpg","BRKNRIB"
+46,"musik-bon-jovi2-foto-per-lange.jpg","Per Lange"
+47,"musik-down-foto-per-lange.jpg","Per Lange"
+48,"musik-tim-christensen-foto-per-lange.jpg","Per Lange"
+49,"dj-sandman-foto-brknrib.jpg","BRKNRIB"
+50,"musik-nik-og-jay-foto-per-lange.jpg","Per Lange"
+51,"chill-n-lounge-foto-brknrib.jpg","BRKNRIB"
+52,"musik-mads-langer-foto-per-lange.jpg","Per Lange"
+53,"musik-infernal-foto-per-lange.jpg","Per Lange"
+54,"dj-kato-foto-per-lange.jpg","Per Lange"
+55,"musik-dune-foto-per-lange.jpg","Per Lange"
+56,"musik-sort-sol2-foto-per-lange.jpg","Per Lange"
+57,"musik-the-blue-van-foto-per-lange.jpg","Per Lange"
+58,"movie-bohemian-rhapsody.jpg","MoviePosters"
+59,"movie-the-wall.jpg","MoviePosters"
+60,"movie-through-the-never.jpg","MoviePosters"
+61,"movie-inside-llewyn-lewis.jpg","MoviePosters"
+62,"movie-gimme-danger.jpeg","MoviePosters"
+63,"movie-samsara.jpg","MoviePosters"
+64,"no-photo.svg","Computer"
+65,"art3-foto-colourbox.jpg","Colourbox"
+66,"art4-foto-colourbox.jpg","Colourbox"
+67,"art5-foto-colourbox.jpg","Colourbox"
+68,"art6-foto-colourbox.jpg","Colourbox"
+69,"art7-foto-colourbox.jpg","Colourbox"
+70,"art8-foto-colourbox.jpg","Colourbox"
+71,"art9-foto-colourbox.jpg","Colourbox"
+72,"body-art-lady-sush-foto-colourbox.jpg","Colourbox"
