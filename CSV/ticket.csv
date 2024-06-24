@@ -1,0 +1,23 @@
+"id","name","description","price","type"
+1,"Alm. Partoutbillet","Almindeligt partout billet - 4 dage
+
+Billetten giver adgang til Mediesusets festivalplads fra onsdag d. 8. juli til lørdag d. 11. juli.
+
+Billetten ombyttes til et 4-dages armbånd ved en af billetvognene ved indgangen til festvalpladsen.
+
+Billetten giver fri adgang til festivalpladsen, alle festivalpladsens scener, spisesteder og aktiviteter.",1495.00,"partout"
+2,"Partoutbillet Deluxe","De Luxe partout billet med campsite og madbilletter
+
+Billetten giver adgang til Mediesusets festivalplads fra onsdag d. 8. juli til lørdag d. 11. juli.
+
+Billetten ombyttes til et 4-dages armbånd ved en af billetvognene ved indgangen til festvalpladsen.
+
+Billetten giver fri adgang til festivalpladsen, alle festivalpladsens scener, spisesteder og aktiviteter.
+
+Billetten giver adgang et opstillet telt på Camp De Luxe samt gode bade- og toiletforhold. Sovegrej skal selv medbringes.
+
+Billetten giver adgang til en daglig madbillet med drikkevare på udvalgte spisesteder på festivalpladsen.",1995.00,"partout"
+3,"Enkeltbillet Onsdag","Endags-billet, der giver adgang til alle koncerter og events onsdag d. 8. juli 2020 fra kl. 12.00-03-00.",600.00,"single"
+4,"Enkeltbillet Torsdag","Endags-billet, der giver adgang til alle koncerter og events torsdag d. 9. juli 2020 fra kl. 09.00-03-00.",600.00,"single"
+5,"Enkeltbillet Fredag","Endags-billet, der giver adgang til alle koncerter og events fredag d. 10. juli 2020 fra kl. 09.00-03-00.",600.00,"single"
+6,"Enkeltbillet Lørdag","Endags-billet, der giver adgang til alle koncerter og events lørdag d. 11. juli 2020 fra kl. 09.00-03-00.",600.00,"single"
