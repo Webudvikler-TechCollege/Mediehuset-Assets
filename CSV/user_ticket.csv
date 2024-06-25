@@ -1,2 +1,0 @@
-"id","email","password","name","address","zipcode","city","ticket_id","camp_id","quantity","type"
-1,"info@webudvikler.dk","$2y$10$PlECsaYDDwfetSWSabM1au1nZ.2WzYDoxplHtC4vnQ6tqWNR5HGse","Ole Olsen","Testvej 10",9000,"testrup",1,1,1,"paper"
